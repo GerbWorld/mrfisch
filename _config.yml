@@ -1,7 +1,7 @@
 # Site settings
 title: Mr. Fisch
 baseurl: "/"
-url: "http://mrfisch.com"
+url: "https://shanecurcuru.github.io/mrfisch"
 description: >
   Confessions of an Illustrated Educator.
 footertitle: Mr.Fisch Speaks
@@ -26,7 +26,7 @@ permalink: none
 mdlcolors: indigo-green
 
 # Custom UI settings
-default_image: http://whyilovetheasf.com/img/mdl-layout__drawer-avatar.png
+default_image: http://mrfisch.com/img/mdl-layout__drawer-avatar.png
 sister_sites:
   site1:
     name: Mr. Fisch Store
@@ -38,10 +38,10 @@ sister_sites:
 footer_links:
   link1:
     name: About This Site
-    link: //mrfisch.com/about
+    link: https://shanecurcuru.github.io/mrfisch/about
   link2:
     name: Impress / Legal / Trademarks
-    link: //mrfisch.com/colophon
+    link: https://shanecurcuru.github.io/mrfisch/colophon
 
 # Build settings
 markdown: kramdown
