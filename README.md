@@ -3,7 +3,7 @@
 
 ## How it works
 
-This is a github hosted website.  The author creates _post files using
+This is a Github Pages hosted website.  The author creates _post files using
 Markdown, a simple formatting language, with a corresponding
 comic strip in the /strips directory.  The Markdown file simply points
 to the comic strip file, and includes a short caption or other text
