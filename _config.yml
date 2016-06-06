@@ -1,7 +1,7 @@
 # Site settings
 title: Mr. Fisch
 baseurl: "/"
-url: "https://shanecurcuru.github.io/mrfisch/"
+url: "http://mrfisch.com/"
 description: >
   Confessions of an Illustrated Educator.
 footertitle: Mr.Fisch Speaks
@@ -10,7 +10,7 @@ footerdesc: >
   organization keep the fun and fins in your classroom.  Contact
   us for licensing deals, and ask about non-profit discounts!
 email: michaelgerb@gmail.com
-twitter_username: mrfisch
+twitter_username: MisterFisch
 github_username:  ShaneCurcuru
 github_forkurl: https://github.com/ShaneCurcuru/mrfisch
 google_customsearch: XYZZY
@@ -38,10 +38,10 @@ sister_sites:
 footer_links:
   link1:
     name: About This Site
-    link: https://shanecurcuru.github.io/mrfisch/about
+    link: http://mrfisch.com/about
   link2:
     name: Impress / Legal / Trademarks
-    link: https://shanecurcuru.github.io/mrfisch/colophon
+    link: http://mrfisch.com/colophon
 
 # Build settings
 markdown: kramdown
