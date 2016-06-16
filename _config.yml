@@ -14,7 +14,7 @@ twitter_username: MisterFisch
 github_username:  ShaneCurcuru
 github_forkurl: https://github.com/ShaneCurcuru/mrfisch
 google_customsearch: XYZZY
-google_analytics: XYZZY
+google_analytics: UA-6070690-3
 stripsurl: https://twitter.com/MisterFisch
 
 # Layout settings
@@ -26,7 +26,7 @@ permalink: none
 mdlcolors: indigo-green
 
 # Custom UI settings
-default_image: https://shanecurcuru.github.io/mrfisch/img/mdl-layout__drawer-avatar.png
+default_image: http://mrfisch.com/img/mdl-layout__drawer-avatar.png
 sister_sites:
   site1:
     name: Mr. Fisch Store
