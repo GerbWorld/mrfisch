@@ -11,8 +11,8 @@ footerdesc: >
   us for licensing deals, and ask about non-profit discounts!
 email: michaelgerb@gmail.com
 twitter_username: MisterFisch
-github_username:  ShaneCurcuru
-github_forkurl: https://github.com/ShaneCurcuru/mrfisch
+github_username:  GerbWorld
+github_forkurl: https://github.com/GerbWorld/mrfisch
 google_customsearch: XYZZY
 google_analytics: UA-6070690-3
 stripsurl: https://twitter.com/MisterFisch
@@ -34,6 +34,9 @@ sister_sites:
   site3:
     name: House Husband's Cooking Log
     link: http://foodislove1.blogspot.com/
+  site3:
+    name: Shane Curcuru, Friend of Fisch
+    link: http://shanecurcuru.org/
 
 footer_links:
   link1:

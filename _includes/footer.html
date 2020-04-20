@@ -42,7 +42,7 @@
         </li>
       {% endif %}
       {% for option in site.sister_sites %}
-        <li><a href="http://{{ option[1].link }}">{{ option[1].name }}</a></li>
+        <li><a href="{{ option[1].link }}">{{ option[1].name }}</a></li>
       {% endfor %}
       </ul>
     </div>
@@ -61,7 +61,7 @@
     <div class="mdl-logo">{{ site.title }}</div>
     <ul class="mdl-mega-footer--link-list">
       {% for fitem in site.footer_links %}
-        <li><a href="http://{{ fitem[1].link }}">{{ fitem[1].name }}</a></li>
+        <li><a href="{{ fitem[1].link }}">{{ fitem[1].name }}</a></li>
       {% endfor %}
     </ul>
   </div>
