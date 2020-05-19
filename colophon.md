@@ -1,29 +1,21 @@
 ---
-layout: page
-title: Colophon / Impress
+title: Credits
 permalink: /colophon/
+layout: single
 ---
 
-### CREDITS / NOTICE
+Original content &copy; 2001 - 2020 Michael Gerber.  All rights reserved; inquire for licensing options.
 
-Original content &copy; 2001 - 2016 Michael Gerber.  All rights reserved; inquire for licensing options.
+## Tools Used
 
-Website structure, layout, graphics:
+- Graphics hand drawn by Michael
+- Website build tools by [Jekyll](https://jekyllrb.com/)
+- Theme used is [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
+- Icons by [FontAwesome](http://fontawesome.io/)
+- Hosted by [GitHub Pages](https://pages.github.com/)
+- Supported by [Punderthings℠ Consulting](http://punderthings.com/).
 
-- Core design by [Jekyll](https://jekyllrb.com/)
-- Theme forked from [gdg-managua/jekyll-mdl](https://github.com/gdg-managua/jekyll-mdl)
-- Using [Google's Material Design Light](https://getmdl.io/) styles and icons.
-- May include <div>icons made by <a href="http://www.freepik.com" title="Freepik" target="_blank">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon" target="_blank">www.flaticon.com</a> licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
-- Website and hosting support by [Shane Curcuru](https://communityovercode.com/).
 
-### TOOLS
+## Trademarks
 
-Hosted by the convenient [GitHub Pages](https://pages.github.com/).
-
-Written with the [Atom.io](https://atom.io/) editor on a Mac.
-
-Powered by caffeine from <a href="http://www.peets.com/" target="_blank">Peet's Coffee and Tea</a>.
-
-### TRADEMARKS
-
-Mr. Fisch and his depiction are trademarks of Michael Gerber.
+Mr. Fisch™ and his depiction are trademarks of Michael Gerber.

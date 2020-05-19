@@ -1,50 +1,78 @@
 # Site settings
-title: Mr. Fisch
-baseurl: "/"
+title: "Mr. Fisch"
+email: michaelgerb@gmail.com
 url: "http://mrfisch.com/"
-description: >
-  Confessions of an Illustrated Educator.
+tagline: "Confessions of an Illustrated Educator!"
+description: "Confessions of an Illustrated Educator."
+author:
+  name      : &mgname "Michael Gerber"
+  avatar    : "/img/author.jpg"
+  location  : "Gloucester, MA"
+  email     : "michaelgerb@gmail.com"
+  twitter   : "MisterFisch"
+  bio       : "Educator. Illustrator. Chef. Father of the Fisch."
+
+# Build, theme, style settings
+repository: "GerbWorld/mrfisch"
+# branch: "gh-pages"
+remote_theme: "mmistakes/minimal-mistakes@4.19.2"
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+minimal_mistakes_skin: default
+search: true
+markdown: kramdown
+paginate: 5 # amount of posts to show
+permalink: /:year/:title/
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+analytics:
+  provider: "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id: "UA-6070690-3"
+    anonymize_ip: true
+
+# jekyll-seo-tag
+logo: &logo "/img/avatar.png"
+twitter:
+  username: MisterFisch
+  card: summary
+
+# Custom UI settings - old theme?
 footertitle: Mr.Fisch Speaks
 footerdesc: >
   Mr. Fisch is interested in helping your school or educational
   organization keep the fun and fins in your classroom.  Contact
   us for licensing deals, and ask about non-profit discounts!
-email: michaelgerb@gmail.com
-twitter_username: MisterFisch
-github_username:  GerbWorld
-github_forkurl: https://github.com/GerbWorld/mrfisch
-google_customsearch: XYZZY
-google_analytics: UA-6070690-3
-stripsurl: https://twitter.com/MisterFisch
 
-# Layout settings
-header_type: default  # values [ drawer, default ]
-post_type: default    # values [ highlight, default ]
-pagination_type: default  # values [ ops, default ]
-paginate: 6
-permalink: none
-mdlcolors: indigo-green
+footer:
+  links:
+    - label: "About"
+      icon: "fa fa-fw fa-fish"
+      url: "/about/"
+    - label: "Fisch Store"
+      icon: "fa fa-fw fa-money-bill-wave"
+      url: "https://www.cafepress.com/mrfisch"
+    - label: "Credits"
+      icon: "fa fa-fw fa-heart"
+      url: "/colophon/"
+    - label: "Fisch Cooks"
+      icon: "fa fa-fw fa-utensils"
+      url: "https://foodislove1.blogspot.com/"
 
-# Custom UI settings
-default_image: http://mrfisch.com/img/mdl-layout__drawer-avatar.png
-sister_sites:
-  site1:
-    name: Mr. Fisch Store
-    link: http://www.cafepress.com/mrfisch
-  site3:
-    name: House Husband's Cooking Log
-    link: http://foodislove1.blogspot.com/
-  site3:
-    name: Shane Curcuru, Friend of Fisch
-    link: http://shanecurcuru.org/
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: strip
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: true
 
-footer_links:
-  link1:
-    name: About This Site
-    link: http://mrfisch.com/about
-  link2:
-    name: Impress / Legal / Trademarks
-    link: http://mrfisch.com/colophon
-
-# Build settings
-markdown: kramdown
