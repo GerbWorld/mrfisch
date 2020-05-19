@@ -1,17 +1,12 @@
 ---
-title: About This Site
+title: Mr. Fisch - Confessions of an Illustrated Educator
 permalink: /about/
 layout: single
 ---
 
-# Mr. Fisch - Confessions of an Illustrated Educator
+Welcome to Mr. Fisch's new website!
 
-Welcome to Mr. Fisch's new website!  Apologies for the dust,
-cleaning up after last year's classes caused quite a mess.
-
-![image-right](/strips/where-you-find-it.jpg){: .align-right}
-
-Test para after image.
+![Fisch Brand - Good For You]({{ site.url }}{{ site.baseurl }}/img/about.jpg)
 
 ## Syndication
 
@@ -24,3 +19,5 @@ Mr. Fisch is dedicated with love, hope, and frustration to the roughly 600+ stud
 Also to my wife and parents for making things possible.
 
 Also to people who support and respect teachers, and realize good schools make for a good country.
+
+![Don't bet your planet]({{ site.url }}{{ site.baseurl }}/img/planet.jpg)

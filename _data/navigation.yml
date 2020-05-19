@@ -1,0 +1,10 @@
+main:
+  - title: "Comics"
+    url: /
+    description: "Read 'em now!"
+  - title: "Characters"
+    url: /cast/
+    description: "Mr. Fisch's students"
+  - title: "Artist"
+    url: /about/
+    description: "The Fisch's Father"

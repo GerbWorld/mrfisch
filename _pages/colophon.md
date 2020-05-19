@@ -6,6 +6,8 @@ layout: single
 
 Original content &copy; 2001 - 2020 Michael Gerber.  All rights reserved; inquire for licensing options.
 
+![Mr. Fisch dedicates his thanks]({{ site.url }}{{ site.baseurl }}/img/dedication.gif)
+
 ## Tools Used
 
 - Graphics hand drawn by Michael
