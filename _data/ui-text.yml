@@ -1,0 +1,21 @@
+# User interface text and labels - Override for comics -sc
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  pagination_previous        : "Earlier strip"
+  pagination_next            : "Next strip"
+  menu_label                 : "Flipper menu"
+  search_label               : "Flipper search"
+  share_on_label             : "Share fresh Fisch on"
+  recent_posts               : "Recent comics"
+  back_to_top                : "Swim back up"
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
