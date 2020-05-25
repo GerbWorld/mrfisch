@@ -28,6 +28,7 @@ layout: default
             </nav>
           </aside>
         {% endif %}
+        {% if page.excerpt %}<h3>{{ page.excerpt | strip_html | strip_newlines | escape_once }}</h3>{% endif %}
 
         <img src="{{ page.strip }}">
 
