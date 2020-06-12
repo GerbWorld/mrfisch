@@ -1,7 +1,5 @@
 ---
-title: Spitballs
-excerpt: Best shot through a straw
-strip: /strips/spitballs.jpg
+title: Library Orientation
+excerpt: It's not our fault!
+strip: /strips/orientation.jpg
 ---
-
-Spitballs - the bane of teachers and joy of those sitting in the back row.

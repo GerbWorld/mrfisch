@@ -1,7 +1,5 @@
 ---
-title: Spitballs
-excerpt: Best shot through a straw
-strip: /strips/spitballs.jpg
+title: Wasted Trees
+excerpt: All I did was press print
+strip: /strips/wastedtrees.jpg
 ---
-
-Spitballs - the bane of teachers and joy of those sitting in the back row.

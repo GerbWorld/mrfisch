@@ -1,7 +1,5 @@
 ---
-title: Spitballs
-excerpt: Best shot through a straw
-strip: /strips/spitballs.jpg
+title: Work ethic
+excerpt: Don't strain it
+strip: /strips/workethic.jpg
 ---
-
-Spitballs - the bane of teachers and joy of those sitting in the back row.

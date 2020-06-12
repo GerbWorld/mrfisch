@@ -1,7 +1,5 @@
 ---
-title: Spitballs
-excerpt: Best shot through a straw
-strip: /strips/spitballs.jpg
+title: I get a computer
+excerpt: But then you have to turn the pages
+strip: /strips/igetacomp.jpg
 ---
-
-Spitballs - the bane of teachers and joy of those sitting in the back row.

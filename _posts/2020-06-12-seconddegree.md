@@ -1,7 +1,5 @@
 ---
-title: Spitballs
-excerpt: Best shot through a straw
-strip: /strips/spitballs.jpg
+title: Second Degree
+excerpt: Why can't we just play games?
+strip: /strips/seconddegree.jpg
 ---
-
-Spitballs - the bane of teachers and joy of those sitting in the back row.
